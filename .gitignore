@@ -42,3 +42,5 @@ nb-configuration.xml
 out/
 
 measurements*.txt
+run*
+scripts*
