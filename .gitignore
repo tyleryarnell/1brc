@@ -44,3 +44,4 @@ out/
 measurements*.txt
 run*
 scripts*
+*.prof
